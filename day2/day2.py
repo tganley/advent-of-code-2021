@@ -3,7 +3,7 @@ horiz = 0
 depth = 0
 aim = 0
 
-f = open("day2_data.txt","r")
+f = open("day2/day2_data.txt","r")
 actions = f.readlines()
 
 for i in range(np.size(actions)):
