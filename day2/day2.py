@@ -20,3 +20,5 @@ for i in range(np.size(actions)):
 print("Depth: ", depth)
 print("Horizontal: ", horiz)
 print("Depth * Horizontal: ", depth*horiz)
+
+f.close()
